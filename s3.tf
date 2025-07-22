@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "aws500demotest0911"
+  bucket = "parthbucket123"
 
   versioning {
     enabled = true
